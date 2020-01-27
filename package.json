@@ -1,12 +1,12 @@
 {
-  "name": "protractor-commonjs-mocha-chai",
+  "name": "protractor-es6-modules-babeljs-mocha-chai",
   "version": "1.0.0",
-  "description": "Protractor end-to-end test automation boilerplate project. Using commonjs, mocha & chai.",
+  "description": "Protractor end-to-end test automation boilerplate, using ES6-modules, BabelJS, Mocha and Chai.",
   "scripts": {
-    "test": "npx protractor protractor.conf.js",
-    "test-ci": "npx protractor protractor-ci.conf.js",
+    "lint": "npx eslint --ext .js ./ --fix",
     "upadte-webderiver": "npx webdriver-manager update",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "test": "npx protractor protractor.conf.js",
+    "test-ci": "npx protractor protractor-ci.conf.js"
   },
   "keywords": [
     "protractor",
@@ -14,11 +14,18 @@
     "mocha",
     "chai",
     "boilerplate",
-    "example"
+    "example",
+    "babel"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
+    "@babel/cli": "7.8.3",
+    "@babel/core": "7.8.3",
+    "@babel/plugin-transform-runtime": "7.8.3",
+    "@babel/preset-env": "7.8.3",
+    "@babel/register": "7.8.3",
+    "@babel/runtime": "7.8.3",
     "chai": "4.2.0",
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.0.0",
