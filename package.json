@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "dependencies": {
     "puppeteer": "2.1.1"
   },
@@ -31,14 +31,10 @@
   },
   "keywords": [
     "babeljs",
-    "boilerplate",
     "chai",
-    "e2e",
-    "e2e tests",
+    "es Modules",
     "es6",
-    "example",
     "expect",
-    "integration test",
     "mocha",
     "protractor"
   ],
