@@ -1,4 +1,4 @@
-name: protractor-es6-modules-babeljs-mocha-chai
+name: protractor-es-modules-babeljs-mocha-chai
 
 on:
   push:
