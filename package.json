@@ -33,7 +33,6 @@
     "babeljs",
     "chai",
     "es modules",
-    "es6",
     "expect",
     "mocha",
     "protractor"
