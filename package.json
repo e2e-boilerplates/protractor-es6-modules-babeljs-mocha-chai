@@ -32,22 +32,22 @@
   "keywords": [
     "babeljs",
     "chai",
-    "es modules",
+    "es",
     "expect",
     "mocha",
     "protractor"
   ],
   "license": "MIT",
-  "name": "protractor-es6-modules-babeljs-mocha-chai-expect",
+  "name": "protractor-es-modules-babeljs-mocha-chai-expect",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/protractor-es6-modules-babeljs-mocha-chai-expect.git"
+    "url": "git+https://github.com/e2e-boilerplates/protractor-es-modules-babeljs-mocha-chai-expect.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
-    "upadte-webderiver": "npx webdriver-manager update",
     "test": "npx protractor protractor.conf.js",
-    "test-ci": "npx protractor protractor-ci.conf.js"
+    "test:ci": "npx protractor protractor-ci.conf.js",
+    "upadte-webderiver": "npx webdriver-manager update"
   },
   "version": "1.0.0"
 }
