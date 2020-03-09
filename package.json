@@ -1,9 +1,9 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/issues"
   },
-  "description": "Protractor end-to-end test automation boilerplate. Using Using ES Modules, Babel, Mocha, Chai and Expect.",
+  "description": "Protractor end-to-end test automation boilerplate. using ES Modules, Babel, Mocha, Chai and Expect.",
   "devDependencies": {
     "@babel/cli": "7.8.4",
     "@babel/core": "7.8.7",
@@ -32,13 +32,8 @@
   },
   "keywords": [
     "babel",
-    "boilerplate",
     "chai",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "mocha",
     "protractor"
   ],
