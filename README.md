@@ -6,8 +6,8 @@ Protractor end-to-end test automation boilerplate, using ES Modules, Babel, Moch
 
 ## Getting Started
 
-git clone git@github.com:e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect.git
-cd protractor-es-modules-babel-mocha-chai-expect
-npm install
-npm run update-webdriver
-npm run test
+    	git clone git@github.com:e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect.git
+    	cd protractor-es-modules-babel-mocha-chai-expect
+    	npm install
+    	npm run update-webdriver
+    	npm run test
