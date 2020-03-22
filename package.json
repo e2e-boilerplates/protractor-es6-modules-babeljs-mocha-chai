@@ -1,8 +1,9 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/issues"
   },
+  "dependencies": {},
   "description": "Protractor end-to-end test automation boilerplate. using ES Modules, Babel, Mocha, Chai and Expect.",
   "devDependencies": {
     "@babel/cli": "7.8.4",
@@ -31,13 +32,8 @@
   },
   "keywords": [
     "babel",
-    "boilerplate",
     "chai",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "mocha",
     "protractor"
   ],
@@ -52,6 +48,5 @@
     "test": "npx protractor",
     "update-webdriver": "npx webdriver-manager update"
   },
-  "version": "1.0.0",
-  "dependencies": {}
+  "version": "1.0.0"
 }
