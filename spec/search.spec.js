@@ -10,7 +10,7 @@ describe("Sandbox", () => {
     const header = element(by.css("h1"));
 
     expect(title).to.equal("Sandbox");
-    header.getText().then(h => {
+    header.getText().then((h) => {
       expect(h).to.equal("Sandbox");
     });
   });
