@@ -1,0 +1,12 @@
+| referrer                                                                             | count | uniques |
+| :----------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions               | 26    | 2       |
+| /e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/62659614 | 4     | 1       |
+| /e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/62685793 | 4     | 1       |
+| /e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/runs/532412458        | 3     | 1       |
+| /e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/61829671 | 2     | 2       |
+| /e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/runs/529068201        | 2     | 2       |
+| /e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect                       | 2     | 1       |
+| /e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/61098579 | 2     | 1       |
+| /e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/actions/runs/61899976 | 2     | 1       |
+| /e2e-boilerplate/protractor-es-modules-babel-mocha-chai-expect/runs/526306796        | 2     | 1       |
