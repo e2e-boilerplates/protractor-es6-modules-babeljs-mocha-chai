@@ -2,7 +2,7 @@ name: protractor-es-modules-babel-mocha-chai-expect
 'on':
   push: null
   schedule:
-    - cron: 50 3 2-31/2 * *
+    - cron: 10 7 2-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
