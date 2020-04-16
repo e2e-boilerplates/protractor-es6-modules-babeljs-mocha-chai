@@ -6,7 +6,7 @@
   "dependencies": {
     "chai": "4.2.0",
     "mocha": "7.1.1",
-    "protractor": "5.4.3"
+    "protractor": "5.4.4"
   },
   "description": "Protractor end-to-end test automation boilerplate. Using ES Modules, Babel, Mocha, Chai and Expect.",
   "devDependencies": {
