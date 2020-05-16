@@ -34,16 +34,17 @@
   },
   "keywords": [
     "babel",
-    "boilerplate",
     "chai",
+    "es modules",
+    "expect",
+    "mocha",
+    "protractor",
     "e2e",
     "e2e tests",
-    "es modules",
-    "example",
-    "expect",
+    "boilerplate",
     "integration test",
-    "mocha",
-    "protractor"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
